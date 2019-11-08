@@ -1,1 +1,1 @@
-# aulas-panda
+# Repositório destinado as aulas do grupo PANDA
